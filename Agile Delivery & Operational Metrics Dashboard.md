@@ -54,7 +54,7 @@ Organizations managing Agile delivery and operational workflows require visibili
 - Entire Excel Project, includes:
   - Raw Data
   - Validated Data
-  - Dashboard (screenshot below)
+  - Dashboard
   - Key Insights and Recommendations (table below)
 
 [Agile Delivery Dashboard PDF File](https://1drv.ms/b/c/baf19c3fa779f554/IQBJtqttGlrWQZ5N_UyHBYtGAZ8Zus8nSZ2xJ-l-Tko3EBQ?e=vReSBs) 

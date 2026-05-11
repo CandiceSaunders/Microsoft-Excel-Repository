@@ -1,6 +1,6 @@
 # Microsoft Excel Data Analysis Projects
 
-This repository contains a collection of Microsoft Excel-based data analysis and operational reporting projects focused on Agile delivery, business operations, process improvement, and KPI reporting. These projects were created to strengthen analytical, reporting, and dashboard development skills while simulating real-world business and PMO reporting scenarios.
+This repository contains a collection of Microsoft Excel-based data analysis and operational reporting projects focused on Agile delivery, business operations, process improvement, and KPI reporting. These projects were created to strengthen analytical, reporting, and dashboard development skills while simulating real-world business scenarios.
 
 The portfolio demonstrates experience with data validation, pivot tables, interactive dashboards, slicers, KPI development, trend analysis, and stakeholder-focused reporting using Microsoft Excel.
 

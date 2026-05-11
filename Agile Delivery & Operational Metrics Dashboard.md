@@ -45,11 +45,11 @@ Organizations managing Agile delivery and operational workflows require visibili
 
 <h2>Dashboard Preview</h2>
 
-<img width="1879" height="870" alt="image" src="https://github.com/user-attachments/assets/1b4146b4-1a43-4c35-a98a-8696a727361d" />
+<img width="1878" height="863" alt="image" src="https://github.com/user-attachments/assets/9cb5cd61-667c-403f-9a10-dc5fd611ab46" />
 
 <h2>Deliverables</h2>
 
-[Agile Delivery Project Excel File](https://1drv.ms/x/c/baf19c3fa779f554/IQAqCo_KLKo-RplSre_d8ledAf3q3gNmIRTufvpnmjqk_ic?e=bYhfGn)
+[Agile Delivery Project Excel File](https://1drv.ms/x/c/baf19c3fa779f554/IQCkDThd6W6DQpKJ2NxMUdlPAeBtL2GOhUmM8tyqdhY3PVs?e=58EIsQ)
 
 - Entire Excel Project, includes:
   - Raw Data
@@ -57,7 +57,7 @@ Organizations managing Agile delivery and operational workflows require visibili
   - Dashboard
   - Key Insights and Recommendations (table below)
 
-[Agile Delivery Dashboard PDF File](https://1drv.ms/b/c/baf19c3fa779f554/IQBJtqttGlrWQZ5N_UyHBYtGAZ8Zus8nSZ2xJ-l-Tko3EBQ?e=vReSBs) 
+[Agile Delivery Dashboard PDF File](https://1drv.ms/b/c/baf19c3fa779f554/IQBx3jR5XNENR4sMlSRI2aGiAZMYhVxDhG0AU6f20kZN-kc?e=VhOgYg) 
 
 - PDF file that contains the Agile Delivery Dashboard
 

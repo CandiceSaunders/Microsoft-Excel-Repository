@@ -6,20 +6,6 @@ This project simulates Agile delivery and operational reporting workflows using 
 <h2>Business Problem</h2>
 Organizations managing Agile delivery and operational workflows require visibility into team workload, sprint performance, backlog trends, and SLA compliance to support delivery planning and operational decision-making.
 
-<h2>Links</h2>
-
-[Agile Delivery Project Excel File](https://1drv.ms/x/c/baf19c3fa779f554/IQAqCo_KLKo-RplSre_d8ledAf3q3gNmIRTufvpnmjqk_ic?e=bYhfGn)
-
-- Entire Excel Project, includes:
-  - Raw Data
-  - Validated Data
-  - Dashboard (screenshot below)
-  - Key Insights and Recommendations (table below)
-
-[Agile Delivery Dashboard PDF File](https://1drv.ms/b/c/baf19c3fa779f554/IQBJtqttGlrWQZ5N_UyHBYtGAZ8Zus8nSZ2xJ-l-Tko3EBQ?e=vReSBs) 
-
-- PDF file that contains the Agile Delivery Dashboard
-
 <h2>Tools Used</h2>
 
 - Microsoft Excel
@@ -57,10 +43,23 @@ Organizations managing Agile delivery and operational workflows require visibili
 - Agile delivery metrics
 - Dynamic filtering
 
-<h2>Screenshots</h2>
+<h2>Dashboard Preview</h2>
 
 <img width="1879" height="870" alt="image" src="https://github.com/user-attachments/assets/1b4146b4-1a43-4c35-a98a-8696a727361d" />
 
+<h2>Deliverables</h2>
+
+[Agile Delivery Project Excel File](https://1drv.ms/x/c/baf19c3fa779f554/IQAqCo_KLKo-RplSre_d8ledAf3q3gNmIRTufvpnmjqk_ic?e=bYhfGn)
+
+- Entire Excel Project, includes:
+  - Raw Data
+  - Validated Data
+  - Dashboard (screenshot below)
+  - Key Insights and Recommendations (table below)
+
+[Agile Delivery Dashboard PDF File](https://1drv.ms/b/c/baf19c3fa779f554/IQBJtqttGlrWQZ5N_UyHBYtGAZ8Zus8nSZ2xJ-l-Tko3EBQ?e=vReSBs) 
+
+- PDF file that contains the Agile Delivery Dashboard
 
 <h2>Key Insights and Reccomendations</h2>
 

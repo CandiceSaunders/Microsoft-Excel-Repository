@@ -6,7 +6,7 @@ This project simulates Agile delivery and operational reporting workflows using 
 <h2>Business Problem</h2>
 Organizations managing Agile delivery and operational workflows require visibility into team workload, sprint performance, backlog trends, and SLA compliance to support delivery planning and operational decision-making.
 
-<h2>Tools Used</h2>
+<h2>Tools Used & Skills Demonstrated</h2>
 
 - Microsoft Excel
 - Pivot Tables
